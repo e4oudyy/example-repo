@@ -26,7 +26,12 @@ nav img{
     position: relative;
 }
 
-
+nav{
+    display: flex;
+    padding: 2% 6%;
+    align-items: center;
+    justify-content: space-between;
+}
 
 
 
